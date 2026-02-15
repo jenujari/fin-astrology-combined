@@ -1,3 +1,6 @@
 [submodule "compo/planets-lib"]
 	path = compo/planets-lib
 	url = git@github.com:jenujari/planets-lib.git
+[submodule "compo/go-swe-api"]
+	path = compo/go-swe-api
+	url = git@github.com:jenujari/go-swe-api.git
