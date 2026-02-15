@@ -1,0 +1,3 @@
+[submodule "compo/planets-lib"]
+	path = compo/planets-lib
+	url = git@github.com:jenujari/planets-lib.git
