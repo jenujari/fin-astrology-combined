@@ -4,3 +4,6 @@
 [submodule "compo/go-swe-api"]
 	path = compo/go-swe-api
 	url = git@github.com:jenujari/go-swe-api.git
+[submodule "compo/go-sbc-webapp"]
+	path = compo/go-sbc-webapp
+	url = git@github.com:jenujari/go-sbc-webapp.git
